@@ -23,8 +23,8 @@
       \clef "treble"
       \key dos \minor
       \time 6/8
-      \partial 8 dos8 |
-      dos sols' fas sols4 mi8|
+      \partial 8 dos8
+      dos sols' fas sols4 mi8 |
       fas4. dos4. |
       mi4 mi8 res dos si |
       dos4. dos4. |
