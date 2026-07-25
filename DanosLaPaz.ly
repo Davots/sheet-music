@@ -35,7 +35,11 @@
 
     % Letra
     \addlyrics {
-      Cor-- de-- ro de Dios que qui-- tas el pe-- ca-- do del mun-- do
+      Cor |
+      de ro de Dios que | 
+      qui tas |
+      el pe ca do del |
+      mun do
     }
   >>
 
